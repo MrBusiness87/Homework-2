@@ -4,11 +4,6 @@ body {
     background-position: center;
     background-size: cover;
   }
-
-.nav-item,
-.nav-link {
-    color: white;
-  }
 .form-group{
     background-color: gray;
     color: white;
