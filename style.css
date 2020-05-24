@@ -1,0 +1,36 @@
+.i-body {
+  max-width: 1500px;
+  margin: auto;
+  }
+
+.c-body {
+  background-image: url("https://www.blocal-travel.com/wp-content/uploads/2014/01/park-princeva.jpg");
+  background-color: #cccccc;
+  background-position: center;
+  background-size: cover;
+  }
+
+.p-body {
+  background-image: url("https://www.blocal-travel.com/wp-content/uploads/2014/01/park-princeva.jpg");
+  background-color: #cccccc;
+  background-position: center;
+  background-size: cover;
+  }
+
+.form-group{
+  background-color: gray;
+  color: white;
+  max-width: 800px;
+  margin-left: 100px;
+  margin-top: 80px;
+  }
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 10px;
+  }
+
+.nav-item,
+.nav-link {
+  color: white;
+  }
