@@ -4,6 +4,7 @@
   min-width: 500px;
   margin: auto;
 }
+
 .i-body {
   background-image: url("./Assets/PROFILE\ thumbnail.jpg");
   background-size: cover;
@@ -13,10 +14,12 @@
 .card-body {
   font-size: 16px;
 }
+
 .card {
   max-width: 1000px;
   color: white;
 }
+
 .form-group {
   color: white;
   font-weight: bold;
@@ -37,6 +40,7 @@ nav {
 
 @media (max-width: 600px) {
   .card-body {
+    max-width: 400px;
     font-size: 10px;
   }
 }
