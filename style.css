@@ -40,7 +40,10 @@ nav {
 
 @media (max-width: 600px) {
   .card-body {
-    max-width: 400px;
     font-size: 10px;
+  }
+
+  .card {
+    max-width: 400px;
   }
 }
